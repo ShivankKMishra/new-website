@@ -1,0 +1,164 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: sans-serif;
+
+   
+}
+
+h1 {
+    margin-top: 0;
+    font-family: 'Sacramento';
+    color: #4ab19a;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+    ;
+
+
+}
+
+
+
+.top-cloud {
+    position: relative;
+    left: 400px;
+    bottom: 72px;
+
+}
+
+.bottom-cloud {
+    position: absolute;
+
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.shivankim {
+    position: relative;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    bottom:350px;
+    left:10%;
+
+}
+.shivankimI{
+  
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    position:relative;
+    right:10px;
+    margin-top: 100px;
+}
+.skill {
+    
+    height: 150px;
+    width: 150px;
+   
+
+    border-radius: 50%;
+   float:right ;
+   margin-left: 20px;
+   bottom: 60px;
+   margin-right: 200px;
+
+}
+    .skill-r{
+    
+        height: 150px;
+        width: 150px;
+       
+    position: relative;
+        border-radius: 50%;
+    float: left;
+    margin-right: 20px;
+    bottom: 40px;
+    margin-left: 200px;
+    }
+
+.rocket-girl {
+    position: relative;
+    height: 120px;
+    width: 130px;
+    right: 650px;
+    bottom: 350px;
+
+}
+
+.mountain {
+    position: relative;
+    left: 150px;
+}
+
+.sec-had {
+    font-family: 'Babylonica', sans-serif;
+    font-size:3rem;
+    margin: 0;
+    color: #4ab19a;
+}
+.linkedin{
+
+    height: 50px;
+        width: 50px;
+}
+.twitter{
+
+    height:50px;
+        width: 50px;
+}
+.website{
+
+    height: 50px;
+        width: 50px;
+}
+
+.middle-container{
+    background-color: #E4F9F5;
+    
+}
+
+.bottom-container{
+    background-color: #016a53;
+}
+
+.h3head{
+    color: #11999E;
+}
+.skill-row1{
+    
+    text-align: right;
+  
+}
+.skill-row2{
+    text-align: left;
+   
+ 
+}
+.head{
+    border-style: none;
+    border-top-style: dotted;
+   margin:100px auto;
+    width: 10%;
+    border-color:rgb(61, 188, 143);
+    border-width: 8px;
+}
+
+
+       a{
+        color: #4ab19a;
+       }         
+
+       .btn{
+        text-decoration: none;
+       }
+
+       a:hover{
+        color: red;
+       }
